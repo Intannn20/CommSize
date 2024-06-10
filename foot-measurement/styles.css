@@ -1,0 +1,32 @@
+/* styles.css */
+body {
+  background-color: #e7d3abc8; /* Ganti dengan warna latar belakang yang diinginkan */
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.sidebar .sidebar-content {
+  display: none; /* Menyembunyikan sidebar default */
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #533904c8;
+}
+
+.stButton > button {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  padding: 10px 24px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 12px;
+}
