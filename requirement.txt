@@ -1,4 +1,5 @@
 streamlit 
+streamlit_option_menu
 opencv-python==4.10.0.82 
 scikit-learn==1.3.2
 numpy==1.24.4 
